@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/workspace/src/github/Mono_InterestingMovementPacman/Content/font.spritefont","C:/workspace/src/github/Mono_InterestingMovementPacman/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2140292
+"C:/workspace/src/github/Mono_InterestingMovementPacman/Content/ghost.png","C:/workspace/src/github/Mono_InterestingMovementPacman/Content/bin/Windows/Content/ghost.xnb","TextureProcessor","Texture2DContent",9430,1391125,0.1346583
+"C:/workspace/src/github/Mono_InterestingMovementPacman/Content/pacman.png","C:/workspace/src/github/Mono_InterestingMovementPacman/Content/bin/Windows/Content/pacman.xnb","TextureProcessor","Texture2DContent",8739,115685,0.0111329
